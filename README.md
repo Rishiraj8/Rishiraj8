@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Student :)</h3>
 
 - 🔭 I’m currently working on **Social Media's API's**
 
