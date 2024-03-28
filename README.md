@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">Student :)</h3>
-![](https://komarev.com/ghpvc/?username=Rishiraj8&label=PROFILE+VIEWS)
+![image title](https://rushter.com/counter.svg)
 
 - 🔭 I’m currently working on **Social Media's API's**
 
