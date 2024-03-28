@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">Student :)</h3>
+![](https://komarev.com/ghpvc/?Rishiraj8)
 
 - 🔭 I’m currently working on **Social Media's API's**
 
