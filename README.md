@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **SIH Problem Statements**
 
-- 🤝 I’m looking for help with **React JS**
+- 🤝 I’m looking for help with **Community Building**
 
 - 💬 Ask me about **Rasperry Pi,IoT Projects**
 
