@@ -12,6 +12,10 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishiraj8&theme=react&border_radius=20&locale=ta&short_numbers=true&card_width=550)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiraj8&theme=react&border_radius=20&locale=ta&short_numbers=true&card_width=550" alt="GitHub Streak" />
+  </a>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
