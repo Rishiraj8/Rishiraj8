@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishiraj8&theme=react&border_radius=20&locale=ta&short_numbers=true&card_width=550)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishiraj8&theme=react&border_radius=20&locale=ta&short_numbers=true&card_width=550)](https://git.io/streak-stats)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
